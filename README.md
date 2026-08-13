@@ -24,7 +24,7 @@
 
 ### 🛠️ My Tech Stack
 
-<div align="center">
+<div align="left">
   <p><strong>Languages & Frameworks</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,cs,dotnet,java,sql&perline=8&theme=dark" alt="Languages and Frameworks" />
@@ -42,8 +42,8 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kufeziwe-muiambo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+<div align="left">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=kufeziwe-muiambo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kufeziwe-muiambo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
